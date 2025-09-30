@@ -1,0 +1,1 @@
+vless://0feeb328-1c84-4358-9b76-5f5455917bce@ru01-vlr01.tcp-reset-club.net:443?security=reality&encryption=none&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&sid=d3b13f31#%F0%9F%94%92%20%D0%92%D0%B8%D0%BA%D1%82%D0%BE%D1%80%20%D0%AE%D1%80%D1%8C%D0%B5%D0%B2%D0%B8%D1%87
